@@ -1,0 +1,11 @@
+<Resource>
+    <pages>
+        <page name="Screen0" id="0" />
+        <page name="Screen1" id="1" />
+    </pages>
+    <images>
+        <image id="0" url="c:\users\zhuyu\documents\40ch\Images\40CH-page1.jpg" width="1024" height="600" crop="0" effect_left="0" effect_top="0" effect_width="1024" effect_height="600" size="1228800" />
+        <image id="1" url="c:\users\zhuyu\documents\40ch\Images\40CH-page2.jpg" width="1024" height="600" crop="0" effect_left="0" effect_top="0" effect_width="1024" effect_height="600" size="1228800" />
+    </images>
+    <waves />
+</Resource>
