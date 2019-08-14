@@ -172,26 +172,6 @@
 
 #define  _TXT_DIS__SCREEN1_TEXT_DISPLAY6                                      67
 
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY7                                      68
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY8                                      69
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY9                                      70
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY10                                     71
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY12                                     72
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY13                                     73
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY14                                     74
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY15                                     75
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY16                                     76
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY17                                     77
-
 #define  _TXT_DIS__SCREEN1_TEXT_DISPLAY18                                     78
 
 #define  _TXT_DIS__SCREEN1_TEXT_DISPLAY19                                     79
@@ -207,26 +187,6 @@
 #define  _TXT_DIS__SCREEN1_TEXT_DISPLAY24                                     84
 
 #define  _TXT_DIS__SCREEN1_TEXT_DISPLAY26                                     85
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY27                                     86
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY28                                     87
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY29                                     88
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY30                                     89
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY31                                     90
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY32                                     91
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY33                                     92
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY34                                     93
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY35                                     94
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY36                                     95
 
 #define  _RTC_SCREEN1_RTC1                                                    47
 
@@ -293,4 +253,68 @@
 #define  _TXT_DIS__SCREEN1_TEXT_DISPLAY60                                     33
 
 #define  _TXT_DIS__SCREEN1_TEXT_DISPLAY61                                     34
+
+//画面Screen1中按钮Button7弹起时的图片
+#define  _IMG_SCREEN1_BUTTON7_UP                                               2
+
+//画面Screen1中按钮Button7按下时的图片
+#define  _IMG_SCREEN1_BUTTON7_DOWN                                             3
+
+#define  _BTN_SCREEN1_BUTTON7                                                 24
+
+//画面Screen1中按钮Button8弹起时的图片
+#define  _IMG_SCREEN1_BUTTON8_UP                                               2
+
+//画面Screen1中按钮Button8按下时的图片
+#define  _IMG_SCREEN1_BUTTON8_DOWN                                             3
+
+#define  _BTN_SCREEN1_BUTTON8                                                 35
+
+//画面Screen1中按钮Button9弹起时的图片
+#define  _IMG_SCREEN1_BUTTON9_UP                                               2
+
+//画面Screen1中按钮Button9按下时的图片
+#define  _IMG_SCREEN1_BUTTON9_DOWN                                             3
+
+#define  _BTN_SCREEN1_BUTTON9                                                 36
+
+//画面Screen1中按钮Button10弹起时的图片
+#define  _IMG_SCREEN1_BUTTON10_UP                                              2
+
+//画面Screen1中按钮Button10按下时的图片
+#define  _IMG_SCREEN1_BUTTON10_DOWN                                            3
+
+#define  _BTN_SCREEN1_BUTTON10                                                37
+
+//画面Screen1中按钮Button11弹起时的图片
+#define  _IMG_SCREEN1_BUTTON11_UP                                              2
+
+//画面Screen1中按钮Button11按下时的图片
+#define  _IMG_SCREEN1_BUTTON11_DOWN                                            3
+
+#define  _BTN_SCREEN1_BUTTON11                                                38
+
+//画面Screen1中按钮Button12弹起时的图片
+#define  _IMG_SCREEN1_BUTTON12_UP                                              2
+
+//画面Screen1中按钮Button12按下时的图片
+#define  _IMG_SCREEN1_BUTTON12_DOWN                                            3
+
+#define  _BTN_SCREEN1_BUTTON12                                                39
+
+//画面Screen1中按钮Button13弹起时的图片
+#define  _IMG_SCREEN1_BUTTON13_UP                                              2
+
+//画面Screen1中按钮Button13按下时的图片
+#define  _IMG_SCREEN1_BUTTON13_DOWN                                            3
+
+#define  _BTN_SCREEN1_BUTTON13                                                40
+
+//画面Screen1中按钮Button14弹起时的图片
+#define  _IMG_SCREEN1_BUTTON14_UP                                              2
+
+//画面Screen1中按钮Button14按下时的图片
+#define  _IMG_SCREEN1_BUTTON14_DOWN                                            3
+
+#define  _BTN_SCREEN1_BUTTON14                                                41
 
