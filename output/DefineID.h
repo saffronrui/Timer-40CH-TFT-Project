@@ -206,16 +206,6 @@
 
 #define  _TXT_DIS__SCREEN1_TEXT_DISPLAY51                                     11
 
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY52                                     12
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY37                                      3
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY38                                      4
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY39                                      5
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY40                                     13
-
 #define  _TXT_DIS__SCREEN1_TEXT_DISPLAY41                                     14
 
 #define  _TXT_DIS__SCREEN1_TEXT_DISPLAY42                                     16
@@ -223,36 +213,6 @@
 #define  _TXT_DIS__SCREEN1_TEXT_DISPLAY43                                     17
 
 #define  _TXT_DIS__SCREEN1_TEXT_DISPLAY44                                     18
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY45                                     19
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY53                                     20
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY54                                     21
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY55                                     22
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY56                                     23
-
-#define  _BTN_SCREEN1_BUTTON3                                                 27
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY57                                     25
-
-#define  _PROGRESS_SCREEN1_PROGRESS2                                          26
-
-#define  _BTN_SCREEN1_BUTTON4                                                 28
-
-#define  _BTN_SCREEN1_BUTTON5                                                 30
-
-#define  _BTN_SCREEN1_BUTTON6                                                 32
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY58                                     29
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY59                                     31
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY60                                     33
-
-#define  _TXT_DIS__SCREEN1_TEXT_DISPLAY61                                     34
 
 //画面Screen1中按钮Button7弹起时的图片
 #define  _IMG_SCREEN1_BUTTON7_UP                                               2

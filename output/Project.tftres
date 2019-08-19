@@ -5,9 +5,9 @@
     </pages>
     <images>
         <image id="0" url="c:\users\zhuyu\documents\timer-40ch-tft-project\Images\40CH-page1.jpg" width="1024" height="600" crop="0" effect_left="0" effect_top="0" effect_width="1024" effect_height="600" size="1228800" />
-        <image id="1" url="c:\users\zhuyu\documents\timer-40ch-tft-project\Images\30CH-PAGE2.jpg" width="1024" height="600" crop="0" effect_left="0" effect_top="0" effect_width="1024" effect_height="600" size="1228800" />
-        <image id="2" url="c:\users\zhuyu\documents\timer-40ch-tft-project\Images\key_close.jpg" width="218" height="31" crop="0" effect_left="0" effect_top="0" effect_width="218" effect_height="31" size="13516" />
-        <image id="3" url="c:\users\zhuyu\documents\timer-40ch-tft-project\Images\key_open.jpg" width="218" height="31" crop="0" effect_left="0" effect_top="0" effect_width="218" effect_height="31" size="13516" />
+        <image id="1" url="c:\users\zhuyu\documents\timer-40ch-tft-project\Images\30CH-PAGE2-V1.1.jpg" width="1024" height="600" crop="0" effect_left="0" effect_top="0" effect_width="1024" effect_height="600" size="1228800" />
+        <image id="2" url="c:\users\zhuyu\documents\timer-40ch-tft-project\Images\key_close.jpg" width="200" height="80" crop="0" effect_left="0" effect_top="0" effect_width="200" effect_height="80" size="32000" />
+        <image id="3" url="c:\users\zhuyu\documents\timer-40ch-tft-project\Images\key_open.jpg" width="200" height="80" crop="0" effect_left="0" effect_top="0" effect_width="200" effect_height="80" size="32000" />
     </images>
     <waves />
 </Resource>
